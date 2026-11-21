@@ -1,1 +1,1 @@
-print("Hello Team,Welcom to databricks")
+print("Hello Team,Welcome to databricks")
